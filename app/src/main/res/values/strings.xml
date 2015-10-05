@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">vamaraju-reflex</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_reflexes">Test Your Reflexes</string>
+    <string name="title_activity_reflexes_start">Test Your Reflexes</string>
+    <string name="title_activity_stats">Statistics</string>
+    <string name="title_activity_buzzer_start">Player Selection</string>
+    <string name="title_activity_buzzer2_player">2 Player Buzzers</string>
+    <string name="title_activity_buzzer3_player">3 Player Buzzers</string>
+    <string name="title_activity_buzzer4_player">4 Player Buzzers</string>
+    <string name="main_test_your">Test Your....</string>
+    <string name="main_speed">SPEED!!!</string>
+    <string name="main_reflexes">REFLEXES</string>
+    <string name="main_buzzers">BUZZERS</string>
+    <string name="main_statistics">STATISTICS</string>
+    <string name="reflexes_press">PRESS!!!</string>
+    <string name="reflexes_start">Start!</string>
+    <string name="stats_reaction_statistics">Reaction Statistics</string>
+    <string name="stats_min_all">Min of All Reactions:</string>
+    <string name="stats_max_all">Max of All Reactions:</string>
+    <string name="stats_mean_all">Mean of All Reactions:</string>
+    <string name="stats_median_all">Median of All Reactions</string>
+    <string name="stats_min_10">Min of Previous 10 Reactions:</string>
+    <string name="stats_max_10">Max of Previous 10 Reactions:</string>
+    <string name="stats_mean_10">Mean of Previous 10:</string>
+    <string name="stats_median_10">Median of Previous 10:</string>
+    <string name="stats_min_100">Min of Previous 100 Reactions:</string>
+    <string name="stats_max_100">Max of Previous 100 Reactions:</string>
+    <string name="stats_mean_100">Mean of Previous 100 Reactions:</string>
+    <string name="stats_median_100">Median of Previous 100 Reactions:</string>
+    <string name="stats_buzzer_statistics">Buzzer Statistics</string>
+    <string name="stats_latest_game">(Latest Game)</string>
+    <string name="stats_player1_buzzes">Player 1 Buzzes:</string>
+    <string name="stats_player2_buzzes">Player 2 Buzzes:</string>
+    <string name="stats_player3_buzzes">Player 3 Buzzes:</string>
+    <string name="stats_player4_buzzes">Player 4 Buzzes:</string>
+    <string name="menu_main_menu">Main Menu</string>
+    <string name="menu_exit_app">Exit App</string>
+    <string name="buzzerStart_2player">2 Player</string>
+    <string name="buzzerStart_3player">3 Player</string>
+    <string name="buzzerStart_4player">4 Player</string>
+    <string name="buzzer2Player_player1">Player 1</string>
+    <string name="buzzer2Player_player2">Player 2</string>
+    <string name="buzzer3Player_player1">Player 1</string>
+    <string name="buzzer3Player_player2">Player 2</string>
+    <string name="buzzer3Player_player3">Player 3</string>
+    <string name="buzzer4Player_player1">Player 1</string>
+    <string name="buzzer4Player_player2">Player 2</string>
+    <string name="buzzer4Player_player3">Player 3</string>
+    <string name="buzzer4Player_player4">Player 4</string>
+    <string name="stats_clear">Clear Stats</string>
+    <string name="stats_email">Email Stats</string>
+
+
+</resources>
